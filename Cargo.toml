@@ -5,3 +5,7 @@ edition = "2024"
 
 
 [dependencies]
+swc_ecma_parser = "0.143"
+swc_ecma_ast = "0.112"
+swc_common = "0.33"
+serde = "=1.0.217"
